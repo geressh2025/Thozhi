@@ -1,0 +1,62 @@
+[
+  {
+    "id": "skill_demo",
+    "name": "Women Skill Development Resource",
+    "name_ta": "பெண்கள் திறன் மேம்பாட்டு வளம்",
+    "category": "Skill Training",
+    "category_ta": "திறன் பயிற்சி",
+    "description": "Prototype Demo Resource — Demonstrates guided access to skill-learning opportunities for women, including digital skills, handicrafts, and vocational training.",
+    "description_ta": "முன்மாதிரி டெமோ வளம் — பெண்களுக்கான திறன் கற்றல் வாய்ப்புகளுக்கான வழிகாட்டப்பட்ட அணுகலை நிரூபிக்கிறது.",
+    "requirements": ["Mobile number", "Basic personal information"],
+    "requirements_ta": ["கைப்பேசி எண்", "அடிப்படை தனிப்பட்ட தகவல்"],
+    "steps": 4,
+    "why_relevant": "Based on your interest in learning new skills from home.",
+    "why_relevant_ta": "வீட்டிலிருந்து புதிய திறன்களை கற்க உங்கள் விருப்பத்தின் அடிப்படையில்.",
+    "demo_only": true
+  },
+  {
+    "id": "employment_demo",
+    "name": "Women Employment Resource",
+    "name_ta": "பெண்கள் வேலைவாய்ப்பு வளம்",
+    "category": "Employment",
+    "category_ta": "வேலைவாய்ப்பு",
+    "description": "Prototype Demo Resource — Demonstrates guided access to employment opportunities and job matching for women.",
+    "description_ta": "முன்மாதிரி டெமோ வளம் — பெண்களுக்கான வேலைவாய்ப்பு வாய்ப்புகள் மற்றும் வேலை பொருத்தத்திற்கான வழிகாட்டப்பட்ட அணுகலை நிரூபிக்கிறது.",
+    "requirements": ["Mobile number", "Basic personal information"],
+    "requirements_ta": ["கைப்பேசி எண்", "அடிப்படை தனிப்பட்ட தகவல்"],
+    "steps": 4,
+    "why_relevant": "Based on your interest in finding work opportunities.",
+    "why_relevant_ta": "வேலை வாய்ப்புகளை கண்டுபிடிக்க உங்கள் விருப்பத்தின் அடிப்படையில்.",
+    "demo_only": true
+  },
+  {
+    "id": "entrepreneur_demo",
+    "name": "Women Entrepreneurship Resource",
+    "name_ta": "பெண்கள் தொழில்முனைவோர் வளம்",
+    "category": "Women Entrepreneurship",
+    "category_ta": "பெண்கள் தொழில்முனைவு",
+    "description": "Prototype Demo Resource — Demonstrates guided access to resources for women interested in starting their own business.",
+    "description_ta": "முன்மாதிரி டெமோ வளம் — சொந்த தொழில் தொடங்க விரும்பும் பெண்களுக்கான வளங்களுக்கான வழிகாட்டப்பட்ட அணுகலை நிரூபிக்கிறது.",
+    "requirements": ["Mobile number", "Basic personal information"],
+    "requirements_ta": ["கைப்பேசி எண்", "அடிப்படை தனிப்பட்ட தகவல்"],
+    "steps": 4,
+    "why_relevant": "Based on your interest in starting your own business.",
+    "why_relevant_ta": "சொந்த தொழில் தொடங்க உங்கள் விருப்பத்தின் அடிப்படையில்.",
+    "demo_only": true
+  },
+  {
+    "id": "govt_assist_demo",
+    "name": "Government Assistance Resource",
+    "name_ta": "அரசு உதவி வளம்",
+    "category": "Government Assistance",
+    "category_ta": "அரசு உதவி",
+    "description": "Prototype Demo Resource — Demonstrates guided access to general government assistance and welfare resources.",
+    "description_ta": "முன்மாதிரி டெமோ வளம் — பொது அரசு உதவி மற்றும் நலன் வளங்களுக்கான வழிகாட்டப்பட்ட அணுகலை நிரூபிக்கிறது.",
+    "requirements": ["Mobile number", "Basic personal information"],
+    "requirements_ta": ["கைப்பேசி எண்", "அடிப்படை தனிப்பட்ட தகவல்"],
+    "steps": 4,
+    "why_relevant": "Based on your request for government support.",
+    "why_relevant_ta": "அரசு ஆதரவுக்கான உங்கள் கோரிக்கையின் அடிப்படையில்.",
+    "demo_only": true
+  }
+]
